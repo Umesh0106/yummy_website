@@ -1,0 +1,114 @@
+@media (max-width: 768px) {
+    .navul {
+        margin-right: auto;
+    }
+
+    .food img {
+        margin-bottom: 10px;
+    }
+
+    .comp h1 {
+        margin-top: auto;
+    }
+
+    .aboutimg2 img {
+        width: 100%;
+        height: auto;
+    }
+
+    .secbg {
+        background-size: cover;
+        background-position: center;
+        height: auto;
+    }
+
+    .num div {
+        margin-top: auto;
+        text-align: center;
+    }
+
+    .num {
+        height: auto;
+    }
+
+    .time {
+        gap: 15px;
+    }
+
+    .time a {
+        font-size: 17px;
+    }
+
+    .menuimg img {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .meimg img {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .evbg1 {
+        background-image: url(img/events-1.jpg);
+        background-size: cover;
+        width: auto;
+        height: auto;
+    }
+
+    .evbg2 {
+        background-image: url(img/events-2.jpg);
+        background-size: cover;
+        width: auto;
+        height: auto;
+    }
+
+    .evbg3 {
+        background-image: url(img/events-3.jpg);
+        background-size: cover;
+        width: auto;
+        height: auto;
+    }
+
+    .evegap {
+        gap: 20px;
+    }
+
+    .chefbg {
+        background-color: #eee;
+        height: auto;
+    }
+
+    .chefimg {
+        height: auto;
+    }
+
+    .aboutimg1 img {
+        width: 100%;
+        height: 333px;
+    }
+
+    .navul {
+        margin-right: 218px;
+    }
+
+    .open {
+        width: 67px;
+    }
+
+    .addr {
+        width: 67px;
+    }
+}
+
+@media (max-width:425px) {
+    .menuimg img {
+        margin-left: 10px;
+    }
+}
+
+@media (min-width:425px) {
+    .meimg img {
+        margin-left: 50px;
+    }
+}
